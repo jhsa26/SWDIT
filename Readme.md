@@ -6,3 +6,5 @@ https://gitee.com/jhsa920/SWDIT/tree/master
 |||
 |---|---|
 | <img src="./logo2.png"> | <img src="./半波长法.png"> |
+| <img src="./三维面波走时成像.png"> | <img src="./三维面波走时成像2.png"> |
+| <img src="三维面波走时成像3.png"> | <img src="./三维面波走时成像4.png"> |
