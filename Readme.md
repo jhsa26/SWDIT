@@ -2,9 +2,7 @@
 
 **SWDIT的发音“swɪdɪt”,中文发音“斯维迪特”**
 
-基于PyQt5设计的面波频散反演交互平台。SWDIT具有三维可视化、半波长解释法、三维面波走时成像等功能。
-
-SWDIT具有三维可视化、半波长解释法、三维面波走时成像等功能,项目地址 https://gitee.com/jhsa920/SWDIT/tree/master
+SWDIT具有三维可视化、半波长解释法、三维面波走时成像等功能，项目地址 https://gitee.com/jhsa920/SWDIT/tree/master
 
 # 工具下载地址 
 
