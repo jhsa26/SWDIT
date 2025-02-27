@@ -1,26 +1,22 @@
-# 面波频散反演工具
-基于PyQt5设计的面波频散反演交互平台SWDIT。SWDIT具有三维可视化、半波长解释法、三维面波走时成像等功能。
-
-https://gitee.com/jhsa920/SWDIT/tree/master
-
-|||
-|---|---|
-| <img src="./logo2.png"> | <img src="./半波长法.png"> |
-| <img src="./三维面波走时成像.png"> | <img src="./三维面波走时成像2.png"> |
-| <img src="三维面波走时成像3.png"> | <img src="./三维面波走时成像4.png"> |
-
-
-# SWDIT
+# SWDIT-面波频散反演工具
 
 **SWDIT的发音“swɪdɪt”,中文发音“斯维迪特”**
 
-SWDIT具有三维可视化、半波长解释法、三维面波走时成像等功能。
+基于PyQt5设计的面波频散反演交互平台。SWDIT具有三维可视化、半波长解释法、三维面波走时成像等功能。
+
+SWDIT具有三维可视化、半波长解释法、三维面波走时成像等功能,项目地址 https://gitee.com/jhsa920/SWDIT/tree/master
 
 # 工具下载地址 
 
 https://pan.baidu.com/s/1IZ7j0iwPOcjuXmY2D8N5Aw 提取码: 0sf8
 
 - **20250107——进入百度网盘 请下载最新zip压缩包，修复频散加载bug**
+
+|||
+|---|---|
+| <img src="./logo2.png"> | <img src="./半波长法.png"> |
+| <img src="./三维面波走时成像.png"> | <img src="./三维面波走时成像2.png"> |
+| <img src="三维面波走时成像3.png"> | <img src="./三维面波走时成像4.png"> |
 
 #  问题
 - 做三维面波走时成像时，当日志中出现rms为NAN的时候，需要将项目中的DSurfTomo-win-2025文件夹下的三个exe文件替换SWDIT安装目录/bin/下的exe文件。
